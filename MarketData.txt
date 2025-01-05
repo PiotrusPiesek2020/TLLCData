@@ -1,4 +1,3 @@
-
 EM
 monsters:
 Monsters/Monster_toejammer diamonds=0
